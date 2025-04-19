@@ -6,3 +6,11 @@ Models/
 .gz
 .pt
 .vscode/
+section02_pytorch_basics/notebooks/data/MNIST/raw/t10k-images-idx3-ubyte
+section02_pytorch_basics/notebooks/data/MNIST/raw/t10k-images-idx3-ubyte.gz
+section02_pytorch_basics/notebooks/data/MNIST/raw/t10k-labels-idx1-ubyte
+section02_pytorch_basics/notebooks/data/MNIST/raw/t10k-labels-idx1-ubyte.gz
+section02_pytorch_basics/notebooks/data/MNIST/raw/train-images-idx3-ubyte
+section02_pytorch_basics/notebooks/data/MNIST/raw/train-images-idx3-ubyte.gz
+section02_pytorch_basics/notebooks/data/MNIST/raw/train-labels-idx1-ubyte
+section02_pytorch_basics/notebooks/data/MNIST/raw/train-labels-idx1-ubyte.gz
