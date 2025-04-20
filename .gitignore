@@ -14,3 +14,8 @@ section02_pytorch_basics/notebooks/data/MNIST/raw/train-images-idx3-ubyte
 section02_pytorch_basics/notebooks/data/MNIST/raw/train-images-idx3-ubyte.gz
 section02_pytorch_basics/notebooks/data/MNIST/raw/train-labels-idx1-ubyte
 section02_pytorch_basics/notebooks/data/MNIST/raw/train-labels-idx1-ubyte.gz
+*.gz
+datasets/MNIST/raw/t10k-images-idx3-ubyte
+datasets/MNIST/raw/t10k-labels-idx1-ubyte
+datasets/MNIST/raw/train-images-idx3-ubyte
+datasets/MNIST/raw/train-labels-idx1-ubyte
