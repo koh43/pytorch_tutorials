@@ -121,7 +121,7 @@ class ModelTrainer(nn.Module):
             self.optimizer.step()
 
             # Log the loss for plotting
-            self.train_loss_logger.append(loss.item())
+            self.train_loss_logger.append(loss.detach().item())
 
     # This function should perform a single evaluation epoch, it WILL NOT be used to train our model
     def evaluate_model(self, train_test_val="test"):
