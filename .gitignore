@@ -27,3 +27,5 @@ datasets/cifar-10-batches-py/data_batch_3
 datasets/cifar-10-batches-py/data_batch_4
 datasets/cifar-10-batches-py/data_batch_5
 datasets/cifar-10-batches-py/test_batch
+*.bin
+*.txt
