@@ -20,3 +20,4 @@ section02_pytorch_basics/notebooks/data/MNIST/raw/train-labels-idx1-ubyte.gz
 *.html
 *.bin
 *.txt
+section09_generation/solutions/MNIST_GAN.gif
