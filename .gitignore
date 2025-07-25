@@ -1,6 +1,7 @@
 __pycache__/
 section/
 Models/
+datasets/
 .ipynb_checkpoints/
 .idea/
 .gz
@@ -15,17 +16,8 @@ section02_pytorch_basics/notebooks/data/MNIST/raw/train-images-idx3-ubyte.gz
 section02_pytorch_basics/notebooks/data/MNIST/raw/train-labels-idx1-ubyte
 section02_pytorch_basics/notebooks/data/MNIST/raw/train-labels-idx1-ubyte.gz
 *.gz
-datasets/MNIST/raw/t10k-images-idx3-ubyte
-datasets/MNIST/raw/t10k-labels-idx1-ubyte
-datasets/MNIST/raw/train-images-idx3-ubyte
-datasets/MNIST/raw/train-labels-idx1-ubyte
 *.meta
 *.html
-datasets/cifar-10-batches-py/data_batch_1
-datasets/cifar-10-batches-py/data_batch_2
-datasets/cifar-10-batches-py/data_batch_3
-datasets/cifar-10-batches-py/data_batch_4
-datasets/cifar-10-batches-py/data_batch_5
-datasets/cifar-10-batches-py/test_batch
 *.bin
 *.txt
+section09_generation/solutions/MNIST_GAN.gif
