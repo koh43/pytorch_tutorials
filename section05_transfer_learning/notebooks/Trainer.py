@@ -97,19 +97,16 @@ class ModelTrainer(nn.Module):
             train_set,
             shuffle=True,
             batch_size=self.batch_size,
-            num_workers=4
         )
         self.valid_loader = dataloader.DataLoader(
             val_set,
             shuffle=False,
             batch_size=self.batch_size,
-            num_workers=4
         )
         self.test_loader = dataloader.DataLoader(
             test_set,
             shuffle=False,
             batch_size=self.batch_size,
-            num_workers=4
         )
 
     # This function should perform a single training epoch using our training data
